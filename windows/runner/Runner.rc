@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "bengkod" "\0"
+            VALUE "FileDescription", "tumbal" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "bengkod" "\0"
+            VALUE "InternalName", "tumbal" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "bengkod.exe" "\0"
-            VALUE "ProductName", "bengkod" "\0"
+            VALUE "OriginalFilename", "tumbal.exe" "\0"
+            VALUE "ProductName", "tumbal" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
